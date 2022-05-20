@@ -21,3 +21,16 @@
 - https://www.freecodecamp.org/news/learn-terraform-and-aws-by-building-a-dev-environment/
 - https://docs.cloudify.co/5.1/trial_getting_started/examples/automation_tools/aws_terraform_basics/
 - 
+
+
+# terraform AWS
+- https://github.com/hashicorp/terraform-provider-aws
+- https://github.com/hashicorp/terraform
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+- https://github.com/terraform-aws-modules
+- https://github.com/terraform-aws-modules/terraform-aws-ec2-instance
+- https://github.com/terraform-aws-modules/terraform-aws-security-group
+- https://github.com/terraform-aws-modules/terraform-aws-cloudfront
+- https://github.com/clouddrove/terraform-aws-ec2
+- https://github.com/terraform-aws-modules/terraform-aws-ecs
+- 
