@@ -34,3 +34,16 @@
 - https://github.com/clouddrove/terraform-aws-ec2
 - https://github.com/terraform-aws-modules/terraform-aws-ecs
 - 
+
+
+Github links
+https://github.com/open-guides/og-aws
+https://github.com/data-science-on-aws/data-science-on-aws
+https://github.com/gofore/aws-training
+https://github.com/dwyl/learn-amazon-web-services
+https://github.com/amazon-archives/aws-training-demo
+https://github.com/aws
+https://github.com/ChandraLingam/AmazonSageMakerCourse
+https://github.com/ricardbejarano/learn-aws
+https://github.com/aws-samples
+https://github.com/donnemartin/awesome-aws
